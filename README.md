@@ -18,10 +18,10 @@ This project demonstrates an **image captioning system** that generates human-li
 ## Demo
 
 Here’s how the app looks:
-![Demo 1](demo image caption/demo caption1.png)  
-![Demo 2](demo image caption/demo caption2.png)
-![Demo 3](demo image caption/demo caption3.png)
-![Demo 4](demo image caption/demo caption4.png)
+![Demo 1](demo_image_caption/demo_caption1.png)  
+![Demo 2](demo_image_caption/demo_caption2.png)
+![Demo 3](demo_image_caption/demo_caption3.png)
+![Demo 4](demo_image_caption/demo_caption4.png)
 ---
 
 ## Model Architecture
