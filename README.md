@@ -17,7 +17,7 @@ This project demonstrates an **image captioning system** that generates human-li
 ---
 ## Demo
 
-Here’s how the app looks:
+Here’s some demo of predicted captions:
 ![Demo 1](demo_image_caption/demo_caption1.png)  
 ![Demo 2](demo_image_caption/demo_caption2.png)
 ![Demo 3](demo_image_caption/demo_caption3.png)
