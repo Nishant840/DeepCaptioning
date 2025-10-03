@@ -11,7 +11,7 @@ This project demonstrates an **image captioning system** that generates human-li
 - Encoder-Decoder architecture
 - Pre-trained VGG16 for image feature extraction
 - LSTM for natural language generation
-- Achieved BLEU score: **0.48**
+- Achieved BLEU score: **0.56**
 - Implemented training and inference in TensorFlow 2.18
 
 ---
